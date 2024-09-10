@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif   " 
     alt="MasterHead" 
     style="width: 100%; max-width: 100%;" 
   />
@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Arjun kumar vs</h1>
 <h3 align="center">A passionate fulstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkumar1877&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkumar1877" /> </p>
 
