@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Arjun kumar vs</h1>
 <h3 align="center">A passionate fulstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunkumar1877&label=Profile%20views&color=0e75b6&style=flat" alt="arjunkumar1877" /> </p>
 
