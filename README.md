@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 
-- 🌱 I’m currently learning **Nest js**
+- 🌱 Currently building large-scale applications and AI-powered tools.**
 
 - 👨‍💻 All of my projects are available at [https://arjunkumarvs.vercel.app/](https://arjunkumarvs.vercel.app/)
 
